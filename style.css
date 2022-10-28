@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+h1{
+    
+    width: 100%;
+    background-color: gray;
+    color:black;
+}
+label{
+    font-weight: 700;
+    color: #461c61;
+}
+
+.search{
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.gen{
+    background-color: #ccb695;
+    border: none;
+    cursor: pointer;
+    border-radius: 40px;
+}
+.show{
+    margin-top: 20px;
+    background-color: gray;
+    font-weight: 600;   
+}
+.com{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    background-color:rgb(143, 202, 202);
+    border: none;
+    color:black;
+    
+}
